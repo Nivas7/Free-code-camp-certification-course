@@ -31,4 +31,4 @@ project.... 5 responsive websites:
 </div>
 
 
-https://komarev.com/ghpvc/?username=Srinivas0000&style=flat-square&color=blue
+<img src="https://komarev.com/ghpvc/?username=Srinivas000p&style=flat-square&color=blue" alt=""/>
